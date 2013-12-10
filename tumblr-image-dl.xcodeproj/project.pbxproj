@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		965174B71854C111003BC4B2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 965174B61854C111003BC4B2 /* main.cpp */; };
-		965174B91854C111003BC4B2 /* regextest.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 965174B81854C111003BC4B2 /* regextest.1 */; };
+		965174B91854C111003BC4B2 /* tumblr-image-dl.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 965174B81854C111003BC4B2 /* tumblr-image-dl.1 */; };
 		965174C41854C4AA003BC4B2 /* libcurl.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 965174C11854C4AA003BC4B2 /* libcurl.dylib */; };
 		96F36F2D1856459300B4AD99 /* utilities.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 96F36F2B1856459300B4AD99 /* utilities.cpp */; };
 /* End PBXBuildFile section */
@@ -20,7 +20,7 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				965174B91854C111003BC4B2 /* regextest.1 in CopyFiles */,
+				965174B91854C111003BC4B2 /* tumblr-image-dl.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -29,7 +29,7 @@
 /* Begin PBXFileReference section */
 		965174B31854C111003BC4B2 /* tumblr-image-dl */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "tumblr-image-dl"; sourceTree = BUILT_PRODUCTS_DIR; };
 		965174B61854C111003BC4B2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		965174B81854C111003BC4B2 /* regextest.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = regextest.1; sourceTree = "<group>"; };
+		965174B81854C111003BC4B2 /* tumblr-image-dl.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "tumblr-image-dl.1"; sourceTree = "<group>"; };
 		965174C11854C4AA003BC4B2 /* libcurl.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcurl.dylib; path = usr/lib/libcurl.dylib; sourceTree = SDKROOT; };
 		96F36F2B1856459300B4AD99 /* utilities.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = utilities.cpp; sourceTree = "<group>"; };
 		96F36F2C1856459300B4AD99 /* utilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = utilities.h; sourceTree = "<group>"; };
@@ -68,7 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				965174B61854C111003BC4B2 /* main.cpp */,
-				965174B81854C111003BC4B2 /* regextest.1 */,
+				965174B81854C111003BC4B2 /* tumblr-image-dl.1 */,
 				96F36F2B1856459300B4AD99 /* utilities.cpp */,
 				96F36F2C1856459300B4AD99 /* utilities.h */,
 			);
